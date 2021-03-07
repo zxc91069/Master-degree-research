@@ -1,0 +1,6 @@
+training_Imagepath,training_CSVname,testsize,predict_dataset1_path,predict_dataset1_csv,predict_dataset2_path,predict_dataset2_csv,predict_dataset3_path,predict_dataset3_csv
+D:\train_images,D:\trainimage.csv,0.1,D:\dataset1,D:\dataset1.csv,D:\dataset2,D:\dataset2\trainimage_RST.csv,D:\dataset3,D:\dataset3.csv
+D:\train_images,D:\trainimage.csv,0.2,D:\dataset1,D:\dataset1.csv,D:\dataset2,D:\dataset2\trainimage_RST.csv,D:\dataset3,D:\dataset3.csv
+D:\train_images,D:\trainimage.csv,0.3,D:\dataset1,D:\dataset1.csv,D:\dataset2,D:\dataset2\trainimage_RST.csv,D:\dataset3,D:\dataset3.csv
+D:\train_images,D:\trainimage.csv,0.4,D:\dataset1,D:\dataset1.csv,D:\dataset2,D:\dataset2\trainimage_RST.csv,D:\dataset3,D:\dataset3.csv
+D:\train_images,D:\trainimage.csv,0.5,D:\dataset1,D:\dataset1.csv,D:\dataset2,D:\dataset2\trainimage_RST.csv,D:\dataset3,D:\dataset3.csv
