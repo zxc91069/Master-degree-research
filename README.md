@@ -1,6 +1,11 @@
 # Master-degree-research
 Using CNN classfied hot-rolled steel strip surface defect
 
+
+
+
+
+
 * System information
   * Python 3.6
   * Tensorflow-GPU 2.1.0
@@ -8,3 +13,6 @@ Using CNN classfied hot-rolled steel strip surface defect
   * CUDA 9.0
   * Numpy 1.18.1
   * Pandas 0.24.2
+* Hardware information
+  * Intel® Core™ i7-8700K
+  * NVIDIA GeForce GTX 1080 8GB
