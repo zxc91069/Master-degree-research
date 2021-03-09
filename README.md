@@ -1,5 +1,5 @@
 # Master-degree-research
-Use CNN to classify surface defects of Hot-rolled strip steel. Replace the classifier of the trained CNN model with SVM or RF
+Use CNN to classify surface defects of Hot-rolled strip steel. Replace the classifier of the trained CNN model with SVM or RF.
 
 * System information
   * Python 3.6
